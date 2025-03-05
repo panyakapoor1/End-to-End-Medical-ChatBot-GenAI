@@ -59,7 +59,7 @@ open up localhost:
 - Pinecone
 
 
-# AWS-CICD-Deployment-with-Github-Actions
+<!-- # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
 
@@ -127,6 +127,4 @@ open up localhost:
    - AWS_DEFAULT_REGION
    - ECR_REPO
    - PINECONE_API_KEY
-   - OPENAI_API_KEY
-
-    
+   - OPENAI_API_KEY -->    
